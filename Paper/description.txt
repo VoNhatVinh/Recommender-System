@@ -233,3 +233,5 @@ Deep learning for recommender system (33 papers): https://github.com/robi56/Deep
 https://github.com/Lab41/hermes/wiki/References
 https://github.com/AISquaredLab/RSPapers
 https://github.com/daicoolb/RecommenderSystem-Paper
+dataset links:
+http://www.shichuan.org/HIN_dataset.html
