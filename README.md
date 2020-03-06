@@ -10,7 +10,7 @@ a. [Papers](https://docs.google.com/document/d/11OkUl8dqoeRH0W0XtP1mHLalb5t_tjtl
 
 b. [Độ đo](https://docs.google.com/document/d/1waHZ0t8w-0Hmx3c8INTHxDEV8GItm2LZwX0mtndoh1g/edit)
 
-c. [Deep learning paper](https://docs.google.com/document/d/1kRezGX6MXra-QSC7TMkSopTeIYnccZi8CjjxBmUP01k/edit)
+c. [Deep learning paper](https://docs.google.com/document/d/1kRezGX6MXra-QSC7TMkSopTeIYnccZi8CjjxBmUP01k/edit) from [3.3](https://github.com/AISquaredLab/RSPapers/tree/master/04-Deep%20Learning%20based%20RS)
 
 d. [Deep learning paper](https://studenthcmusedu-my.sharepoint.com/:w:/g/personal/1612909_student_hcmus_edu_vn/EWcMrzcF_EBGjc7tJ_DdqEsBaN4IEj7K5ikHzhkZnH5oRQ?e=Lo9p2W) from [3.1](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
 
