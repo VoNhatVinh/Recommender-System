@@ -16,8 +16,12 @@ Võ Nhật Vinh - Nguyễn Ngọc Khải
 
 ## 3. Tập dữ liệu:
 3.1 [Dataset from coursera](https://github.com/elleros/courseraforums) 60 Coursera Massive Open Online Courses (MOOCs), for a total of about 100,000 threads.
+
 3.2 [Open University Learning Analytics dataset](https://analyse.kmi.open.ac.uk/open_dataset) ontains data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses 
-3.2 [Dataset from Kaggle] (https://www.kaggle.com/chellaindu/mooc-dataset)
+
+3.3 [Dataset from Kaggle] (https://www.kaggle.com/chellaindu/mooc-dataset)
+
+3.4 [Data from MIT and Harvard] (https://www.kaggle.com/kanikanarang94/mooc-dataset)
 
 ## 4. Nguồn tham khảo:
 4.1 [Deep learning for recommender system](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
