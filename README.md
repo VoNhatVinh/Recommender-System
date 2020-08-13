@@ -26,10 +26,8 @@ Võ Nhật Vinh - Nguyễn Ngọc Khải
 ## 4. References:
 4.1 [Deep learning for recommender system](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
 
-4.2 [Độ đo và các bài báo cũ](https://github.com/Lab41/hermes/wiki/References)
+4.2 [Metrics and old papers](https://github.com/Lab41/hermes/wiki/References)
 
-4.3 [RS Paper tổng hợp theo chủ đề](https://github.com/AISquaredLab/RSPapers)
+4.3 [RS Paper with topics](https://github.com/AISquaredLab/RSPapers)
 
-4.4 [RS Paper tổng hợp theo hội nghị](https://github.com/daicoolb/RecommenderSystem-Paper)
-
-3.5 [Data set for RS](http://www.shichuan.org/HIN_dataset.html)
+4.4 [RS Paper in Conferences](https://github.com/daicoolb/RecommenderSystem-Paper)
