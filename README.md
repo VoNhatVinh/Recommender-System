@@ -1,6 +1,6 @@
 # Recommender-System
 
-Võ Nhật Vinh - Nguyễn Ngọc Khải
+Nhat-Vinh Vo - Ngoc-Khai Nguyen
 
 ## 1. Papers.
 
